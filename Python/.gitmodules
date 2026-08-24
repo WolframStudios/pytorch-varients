@@ -1,134 +1,134 @@
 [submodule "third_party/pybind11"]
     ignore = dirty
-    path = C++/third_party/pybind11
+    path = Python/third_party/pybind11
     url = https://github.com/WolframStudios/pybind11-varients.git
 [submodule "third_party/googletest"]
     ignore = dirty
-    path = C++/third_party/googletest
+    path = Python/third_party/googletest
     url = https://github.com/WolframStudios/googletest-varients.git
 [submodule "third_party/benchmark"]
     ignore = dirty
-    path = C++/third_party/benchmark
+    path = Python/third_party/benchmark
     url = https://github.com/WolframStudios/benchmark-varients.git
 [submodule "third_party/protobuf"]
     ignore = dirty
-    path = C++/third_party/protobuf
+    path = Python/third_party/protobuf
     url = https://github.com/WolframStudios/protobuf-varients.git
 [submodule "third_party/NNPACK"]
     ignore = dirty
-    path = C++/third_party/NNPACK
+    path = Python/third_party/NNPACK
     url = https://github.com/WolframStudios/NNPACK-varients.git
 [submodule "third_party/gloo"]
     ignore = dirty
-    path = C++/third_party/gloo
+    path = Python/third_party/gloo
     url = https://github.com/WolframStudios/gloo-varients.git
 [submodule "third_party/NNPACK_deps/pthreadpool"]
     ignore = dirty
-    path = C++/third_party/pthreadpool
+    path = Python/third_party/pthreadpool
     url = https://github.com/WolframStudios/pthreadpool-varients.git
 [submodule "third_party/NNPACK_deps/FXdiv"]
     ignore = dirty
-    path = C++/third_party/FXdiv
+    path = Python/third_party/FXdiv
     url = https://github.com/WolframStudios/FXdiv-varients.git
 [submodule "third_party/NNPACK_deps/FP16"]
     ignore = dirty
-    path = C++/third_party/FP16
+    path = Python/third_party/FP16
     url = https://github.com/WolframStudios/FP16-varients.git
 [submodule "third_party/NNPACK_deps/psimd"]
     ignore = dirty
-    path = C++/third_party/psimd
+    path = Python/third_party/psimd
     url = https://github.com/WolframStudios/psimd-varients.git
 [submodule "third_party/cpuinfo"]
     ignore = dirty
-    path = C++/third_party/cpuinfo
+    path = Python/third_party/cpuinfo
     url = https://github.com/WolframStudios/cpuinfo-varients.git
 [submodule "third_party/python-peachpy"]
     ignore = dirty
-    path = C++/third_party/python-peachpy
+    path = Python/third_party/python-peachpy
     url = https://github.com/WolframStudios/PeachPy-varients.git
 [submodule "third_party/onnx"]
     ignore = dirty
-    path = C++/third_party/onnx
+    path = Python/third_party/onnx
     url = https://github.com/WolframStudios/onnx-varients.git
 [submodule "third_party/sleef"]
     ignore = dirty
-    path = C++/third_party/sleef
+    path = Python/third_party/sleef
     url = https://github.com/WolframStudios/sleef-varients.git
 [submodule "third_party/ideep"]
     ignore = dirty
-    path = C++/third_party/ideep
+    path = Python/third_party/ideep
     url = https://github.com/WolframStudios/ideep-varients.git
 [submodule "third_party/gemmlowp/gemmlowp"]
     ignore = dirty
-    path = C++/third_party/gemmlowp/gemmlowp
+    path = Python/third_party/gemmlowp/gemmlowp
     url = https://github.com/WolframStudios/gemmlowp-varients.git
 [submodule "third_party/fbgemm"]
     ignore = dirty
-    path = C++/third_party/fbgemm
+    path = Python/third_party/fbgemm
     url = https://github.com/WolframStudios/fbgemm-varients.git
 [submodule "android/libs/fbjni"]
     ignore = dirty
-    path = C++/android/libs/fbjni
+    path = Python/android/libs/fbjni
     url = https://github.com/WolframStudios/fbjni-varients.git
 [submodule "third_party/XNNPACK"]
     ignore = dirty
-    path = C++/third_party/XNNPACK
+    path = Python/third_party/XNNPACK
     url = https://github.com/WolframStudios/XNNPACK-varients.git
 [submodule "third_party/fmt"]
     ignore = dirty
-    path = C++/third_party/fmt
+    path = Python/third_party/fmt
     url = https://github.com/WolframStudios/fmt-varients.git
 [submodule "third_party/tensorpipe"]
     ignore = dirty
-    path = C++/third_party/tensorpipe
+    path = Python/third_party/tensorpipe
     url = https://github.com/WolframStudios/tensorpipe-varients.git
 [submodule "third_party/cudnn_frontend"]
-	path = C++/third_party/cudnn_frontend
+	path = Python/third_party/cudnn_frontend
 	url = https://github.com/WolframStudios/cudnn-frontend-varients.git
 [submodule "third_party/kineto"]
-    path = C++/third_party/kineto
+    path = Python/third_party/kineto
     url = https://github.com/WolframStudios/kineto-varients.git
 [submodule "third_party/pocketfft"]
-	path = C++/third_party/pocketfft
+	path = Python/third_party/pocketfft
 	url = https://github.com/WolframStudios/pocketfft-varients.git
 [submodule "third_party/ittapi"]
-	path = C++/third_party/ittapi
+	path = Python/third_party/ittapi
 	url = https://github.com/WolframStudios/ittapi-varients.git
 [submodule "third_party/flatbuffers"]
-	path = C++/third_party/flatbuffers
+	path = Python/third_party/flatbuffers
 	url = https://github.com/WolframStudios/flatbuffers-varients.git
 [submodule "third_party/nlohmann"]
-	path = C++/third_party/nlohmann
+	path = Python/third_party/nlohmann
 	url = https://github.com/WolframStudios/json-varients.git
 [submodule "third_party/VulkanMemoryAllocator"]
-	path = C++/third_party/VulkanMemoryAllocator
+	path = Python/third_party/VulkanMemoryAllocator
 	url = https://github.com/WolframStudios/VulkanMemoryAllocator-varients.git
 [submodule "third_party/cutlass"]
-	path = C++/third_party/cutlass
+	path = Python/third_party/cutlass
 	url = https://github.com/WolframStudios/cutlass-varients.git
 [submodule "third_party/mimalloc"]
-	path = C++/third_party/mimalloc
+	path = Python/third_party/mimalloc
 	url = https://github.com/WolframStudios/mimalloc-varients.git
 [submodule "third_party/cpp-httplib"]
-	path = C++/third_party/cpp-httplib
+	path = Python/third_party/cpp-httplib
 	url = https://github.com/WolframStudios/cpp-httplib-varients.git
 	branch = v0.15.3
 [submodule "third_party/NVTX"]
-	path = C++/third_party/NVTX
+	path = Python/third_party/NVTX
 	url = https://github.com/WolframStudios/NVTX-varients.git
 [submodule "third_party/composable_kernel"]
-	path = C++/third_party/composable_kernel
+	path = Python/third_party/composable_kernel
 	url = https://github.com/WolframStudios/composable_kernel-varients.git
 	branch = develop
 [submodule "third_party/kleidiai"]
-	path = C++/third_party/kleidiai
+	path = Python/third_party/kleidiai
 	url = https://github.com/WolframStudios/kleidiai-varients.git
 [submodule "third_party/flash-attention"]
-	path = C++/third_party/flash-attention
+	path = Python/third_party/flash-attention
 	url = https://github.com/WolframStudios/flash-attention-varients.git
 [submodule "third_party/aiter"]
-	path = C++/third_party/aiter
+	path = Python/third_party/aiter
 	url = https://github.com/WolframStudios/aiter-varients.git
 [submodule "third_party/mslk"]
-	path = C++/third_party/mslk
+	path = Python/third_party/mslk
 	url = https://github.com/WolframStudios/MSLK-varients.git
